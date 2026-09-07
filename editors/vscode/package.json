@@ -7,7 +7,7 @@
 		"type": "git",
 		"url": "git://github.com/DanielGavin/ols.git"
 	},
-	"version": "0.1.45",
+	"version": "0.1.47",
 	"engines": {
 		"vscode": "^1.96.0"
 	},
